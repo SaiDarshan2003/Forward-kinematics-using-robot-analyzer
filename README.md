@@ -38,8 +38,10 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 
 ### SIMULATION 
- 
- 
+ ![Screenshot 2023-04-08 112201](https://user-images.githubusercontent.com/94692595/230705801-9d632aa1-099f-41f6-9acb-3f7b2612019d.png)
+
+ ![Screenshot 2023-04-08 112231](https://user-images.githubusercontent.com/94692595/230705803-e5a90225-6d71-460f-a998-717c0a9752a2.png)
+
  
  
  
